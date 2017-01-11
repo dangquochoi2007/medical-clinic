@@ -1,0 +1,3 @@
+rootProject.name = 'MedicalMine'
+
+include ':app'
